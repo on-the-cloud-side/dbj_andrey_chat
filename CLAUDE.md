@@ -11,8 +11,9 @@ shown with the sender's name prefixed by their community code, e.g.
 
 ## Conversation protocol
 
-- Be very brief in your answers 
-  - If you think you know longer answer is required make it longer
+- Prose Quantity != Prose Quality
+  - Be very brief in your answers 
+  - If you think longer answer is required, only then make it longer
 - Use simple terminology
   - Move explaining of complex and necessary stuff into footnote section of the document
     - Call it "Vocabulary"
